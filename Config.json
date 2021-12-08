@@ -1,16 +1,16 @@
 {
-	"path": "/home/cyalias/24h-Live-on-Bilibili_cyalias",
+	"path": "/root/24h",
 	"musicapi": "https://qq.papapoi.com/163music/",
 	"freespace": "15360",
 	"gift": "0",
 	"rtmp": {
-		"url": "",
-		"code": ""
+		"url": "rtmp://txy.live-push.bilivideo.com/live-bvc/",
+		"code": "?streamname=live_1081018255_23693085&key=031a62c425204ecb8c0f882b84d3525e&schedule=rtmp&pflag=9"
 	},
 	"danmu": {
 		"cookie": "",
 		"token": "",
-		"roomid": "7164303",
+		"roomid": "23925094",
 		"size": "20"
 	},
 	"nightvideo": {
